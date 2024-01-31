@@ -384,7 +384,6 @@ while realyrun:
     liftwork = False
     normform = False
     cakeisalie = False
-    w = [0, False]
     keykeykey = False
     infor = False
     h11 = False
